@@ -21,7 +21,7 @@ Here are the results with the initial condition, 50th generation and the final 1
 
 ![alt text](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/Images/Test01_RandomCells.JPG)
 
-View the gif animation **[here]**(https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/GIFs/game_of_life_01.gif).
+View the gif animation **[here](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/GIFs/game_of_life_01.gif)**.
 
 **Random Row**
 
