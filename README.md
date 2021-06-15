@@ -2,7 +2,7 @@
 
 The program generates Game of Life cellular automaton.
 
-For information on the origins of this type of cellular automaton click [here](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+For information on the origins of this type of cellular automaton click **[here](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)**.
 
 100 matrices (generations) of 100 x 100 dimensions store values of 1 (alive) or 0 (dead) based on an initial condition and the application of the rules of Game of Life. 
 
@@ -27,10 +27,10 @@ View the gif animation **[here](https://github.com/aaronmkwong/Python-Cellular-A
 
 ![alt text](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/Images/Test02_RandomRow.JPG)
 
-View the gif animation [here](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/GIFs/game_of_life_02.gif).
+View the gif animation **[here](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/GIFs/game_of_life_02.gif)**.
 
 **Random Cells 10% Chance Initially Alive**
 
 ![alt text](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/Images/Test03_RandomCells10.JPG)
 
-View the gif animation [here](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/GIFs/game_of_life_03.gif).
+View the gif animation **[here](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/GIFs/game_of_life_03.gif)**.
