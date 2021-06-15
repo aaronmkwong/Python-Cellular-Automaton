@@ -21,10 +21,10 @@ Below are sets of three images of the initial condition, 50th generation and the
 
 ![alt text](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/Images/Test01_RandomCells.JPG)
 
-**Random Row** (view the gif animation **[here](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/GIFs/game_of_life_02.gif)**)
+**[Random Row](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/GIFs/game_of_life_02.gif)**
 
 ![alt text](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/Images/Test02_RandomRow.JPG)
 
-**Random Cells 10% Chance Initially Alive** (view the gif animation **[here](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/GIFs/game_of_life_03.gif)**)
+**[Random Cells 10% Chance Initially Alive](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/GIFs/game_of_life_03.gif)**
 
 ![alt text](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/Images/Test03_RandomCells10.JPG)
