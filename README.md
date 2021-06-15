@@ -6,9 +6,9 @@ For information on the origins of this type of cellular automaton click **[here]
 
 100 matrices (generations) of 100 x 100 dimensions store values of 1 (alive) or 0 (dead) based on an initial condition and the application of the rules of Game of Life. 
 
-(1) Any live cell with two or three live neighbours lives on to the next generation/n
-(2) Any live cell with fewer than two live neighbours dies, as if by underpopulation/n
-(3) Any live cell with more than three live neighbours dies, as if by overpopulation/n
+(1) Any live cell with two or three live neighbours lives on to the next generation\
+(2) Any live cell with fewer than two live neighbours dies, as if by underpopulation\
+(3) Any live cell with more than three live neighbours dies, as if by overpopulation\
 (4) Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction
 
 The matplot visualizations of each matrix are saved as .png files and then used to generate a .gif file.
