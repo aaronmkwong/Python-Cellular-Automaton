@@ -13,7 +13,7 @@ For information on the origins of this type of cellular automaton click **[here]
 
 The matplot visualizations of each matrix are saved as .png files and then used to generate a .gif file.
 
-Each cell in a generation subsequent to the initial condition is determined to be alive or dead based on the sum of the 8 adjacent cells (count of alive neighbours) of the preceding generation. For more details refer to the .ipynb file titled game_of_life_08 which has many notes. 
+Each cell in a generation subsequent to the initial condition is determined to be alive or dead based on the sum of the 8 adjacent cells (count of alive neighbours) of the preceding generation. For more details refer to the python notebook **[here]()**. 
 
 Here are the results with the initial condition, 50th generation and the final 100th generation displayed as images. 
 
