@@ -6,9 +6,9 @@ For information on the origins of this type of cellular automaton click **[here]
 
 100 matrices (generations) of 100 x 100 dimensions store values of 1 (alive) or 0 (dead) based on an initial condition and the application of the rules of Game of Life. 
 
-(1) Any live cell with two or three live neighbours lives on to the next generation
-(2) Any live cell with fewer than two live neighbours dies, as if by underpopulation
-(3) Any live cell with more than three live neighbours dies, as if by overpopulation
+(1) Any live cell with two or three live neighbours lives on to the next generation/n
+(2) Any live cell with fewer than two live neighbours dies, as if by underpopulation/n
+(3) Any live cell with more than three live neighbours dies, as if by overpopulation/n
 (4) Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction
 
 The matplot visualizations of each matrix are saved as .png files and then used to generate a .gif file.
@@ -17,20 +17,14 @@ Each cell in a generation subsequent to the initial condition is determined to b
 
 Here are the results with the initial condition, 50th generation and the final 100th generation displayed as images. 
 
-**Random Cells**
+**Random Cells** View the gif animation **[here](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/GIFs/game_of_life_01.gif)**.
 
 ![alt text](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/Images/Test01_RandomCells.JPG)
 
-View the gif animation **[here](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/GIFs/game_of_life_01.gif)**.
-
-**Random Row**
+**Random Row** View the gif animation **[here](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/GIFs/game_of_life_02.gif)**.
 
 ![alt text](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/Images/Test02_RandomRow.JPG)
 
-View the gif animation **[here](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/GIFs/game_of_life_02.gif)**.
-
-**Random Cells 10% Chance Initially Alive**
+**Random Cells 10% Chance Initially Alive** View the gif animation **[here](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/GIFs/game_of_life_03.gif)**.
 
 ![alt text](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/Images/Test03_RandomCells10.JPG)
-
-View the gif animation **[here](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/GIFs/game_of_life_03.gif)**.
