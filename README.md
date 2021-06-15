@@ -31,6 +31,6 @@ View the gif animation [here](https://github.com/aaronmkwong/Python-Cellular-Aut
 
 **Random Cells 10% Chance Initially Alive**
 
-![alt text](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/Images/Test03_RandomCells10%.JPG)
+![alt text](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/Images/Test03_RandomCells10.JPG)
 
 View the gif animation [here](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/GIFs/game_of_life_03.gif).
