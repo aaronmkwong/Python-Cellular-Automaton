@@ -15,7 +15,7 @@ The matplot visualizations of each matrix are saved as .png files and then used 
 
 Each cell in a generation subsequent to the initial condition is determined to be alive or dead based on the sum of the 8 adjacent cells (count of alive neighbours) of the preceding generation. For more details refer to the python notebook **[here](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/game_of_life_08.ipynb)**. 
 
-Here are the results with the initial condition, 50th generation and the final 100th generation displayed as images. 
+Below are images of the initial condition, 50th generation and the final 100th generation. 
 
 **Random Cells** (view the gif animation **[here](https://github.com/aaronmkwong/Python-Cellular-Automaton/blob/main/GIFs/game_of_life_01.gif)**)
 
